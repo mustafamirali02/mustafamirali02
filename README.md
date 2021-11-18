@@ -1,6 +1,6 @@
 👋 Hi, I’m Mustafa Ali
 
-👀 I’m interested in Video Games
+👀 I’m interested in Coding and Video Games
 
 🌱 I’m currently learning Java
 
