@@ -2,7 +2,12 @@
 
 👀 I’m interested in Coding and Video Games
 
-🌱 I’m currently learning Java
+🌱 I’m currently learning JavaScript
+
+💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
+- Proficient in Python
+- Comfortable in Java
+- Familiar with C and RISC-V Assembly
 
 📫 You can reach me at skylon2k2@gmail.com, or SkyLon#8373 on Discord
 
