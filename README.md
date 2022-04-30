@@ -1,15 +1,17 @@
-👋 Hi, I’m Mustafa Ali
+👋 Hi, I’m Mustafa Ali.
 
-👀 I’m interested in Coding and Video Games
+👀 I’m interested in Coding and Video Games.
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning JavaScript.
+
+🎓 Undergrad at UofT Mississauga, expected 2025.
 
 💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
 - Proficient in Python
 - Comfortable in Java
 - Familiar with C and RISC-V Assembly
 
-📫 You can reach me at skylon2k2@gmail.com, or SkyLon#8373 on Discord
+📫 You can reach me at skylon2k2@gmail.com, or SkyLon#8373 on Discord.
 
 <!---
 skylon2k2/skylon2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
