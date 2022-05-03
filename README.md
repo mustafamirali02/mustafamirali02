@@ -7,7 +7,7 @@
 🎓 Undergrad at UofT Mississauga, expected 2025.
 
 💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
-- Proficient in Python
+- Proficient in Python and Processing
 - Comfortable in Java
 - Familiar with C and RISC-V Assembly
 
