@@ -2,7 +2,7 @@
 
 👀 I’m interested in Coding and Video Games.
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m currently learning JavaScript and Web Development.
 
 🎓 Undergrad at UofT Mississauga, expected 2025.
 
