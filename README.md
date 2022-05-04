@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning JavaScript and Web Development.
 
-🎓 Undergrad at UofT Mississauga, expected 2025.
+🎓 Undergrad at UofT Mississauga, expected 2020 - 2025.
 
 💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
 - Proficient in Python and Processing
