@@ -11,7 +11,7 @@
 - Comfortable in Java
 - Familiar with C and RISC-V Assembly
 
-📫 You can reach me at skylon2k2@gmail.com, or SkyLon#8373 on Discord.
+📫 You can reach me at here.is.mustafa.ali@gmail.com, or SkyLon#8373 on Discord.
 
 <!---
 skylon2k2/skylon2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
