@@ -1,6 +1,6 @@
 👋 Hi, I’m Mustafa Ali.
 
-👀 I’m interested in Coding and Video Games.
+👀 I’m interested in Puzzles, Coding and Video Games.
 
 🌱 I’m currently learning JavaScript and Web Development.
 
@@ -8,8 +8,8 @@
 
 💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
 - Proficient in Python and Processing
-- Comfortable in Java
-- Familiar with C and RISC-V Assembly
+- Comfortable with C and Java
+- Familiar with RISC-V Assembly
 
 📫 You can reach me at here.is.mustafa.ali@gmail.com, or SkyLon#8373 on Discord.
 
