@@ -12,7 +12,7 @@
 
 🧠 Skills: Git Version Control, Database Management Systems, Object-Oriented Design, Algorithms and Data Structures, Software Engineering Practices
 
-📫 You can reach me at here.is.mustafa.ali@gmail.com, or SkyLon#8373 on Discord.
+📫 You can reach me at here.is.mustafa.ali@gmail.com, or skylon2k2 on Discord.
 
 <!---
 skylon2k2/skylon2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
