@@ -1,15 +1,16 @@
 👋 Hi, I’m Mustafa Ali.
 
-👀 I’m interested in Puzzles, Coding and Video Games.
+👀 Interested in Coding and Puzzles.
 
-🌱 I’m currently learning JavaScript and Web Development.
+🌱 Currently learning JavaScript and Web Development.
 
-🎓 Undergrad at UofT Mississauga, expected 2020 - 2025.
+🎓 Third Year Undergrad at Wilfred-Laurier University in Waterloo, expected 2025.
 
-💼 I'm looking for a Remote Co-Op/Internship in Software Engineering.
-- Proficient in Python and Processing
-- Comfortable with C and Java
-- Familiar with RISC-V Assembly
+💼 Looking for a Co-Op/Internship in Software Engineering.
+
+💻 Languages: Python, C, Java, PostgreSQL, Bash Scripting
+
+🧠 Skills: Git Version Control, Database Management Systems, Object-Oriented Design, Algorithms and Data Structures, Software Engineering Practices
 
 📫 You can reach me at here.is.mustafa.ali@gmail.com, or SkyLon#8373 on Discord.
 
