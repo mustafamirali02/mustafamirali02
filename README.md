@@ -6,7 +6,7 @@
 
 🎓 Third Year Undergrad at Wilfred-Laurier University in Waterloo, expected 2025.
 
-💼 Looking for a Co-Op/Internship in Software Engineering.
+💼 Looking for an Internship in Software Engineering.
 
 💻 Languages: Python, C, Java, PostgreSQL, Bash Scripting
 
