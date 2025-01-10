@@ -2,9 +2,7 @@
 
 👀 Interested in Coding and Puzzles.
 
-🌱 Currently learning JavaScript and Web Development.
-
-🎓 Third Year Undergrad at Wilfred-Laurier University in Waterloo, expected 2025.
+🎓 Third Year Undergrad at Wilfrid-Laurier University in Waterloo, expected December 2025.
 
 💼 Looking for an Internship in Software Engineering.
 
